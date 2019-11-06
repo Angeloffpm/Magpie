@@ -15,3 +15,4 @@
 
 ## Question
 1. The if statement will still trigger because the String has the word, regardless of it being inside of another word like "no" in "know". It would thus return "Why so negative?" which is a problem because the user didn't mean to say "no."
+ 
